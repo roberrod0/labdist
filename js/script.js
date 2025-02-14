@@ -17,10 +17,15 @@ document.addEventListener("DOMContentLoaded", function() {
             alert("Por favor, ingrese un correo electrónico válido.");
             valid = false;
         }
-
+        
         
         if (!valid) {
             event.preventDefault();
         }
+
+        if (mensaje.value.trim() === "") {
+            alert("Por favor, ingrese un mensaje.");
+            valid = false;
+            }
     });
 });
