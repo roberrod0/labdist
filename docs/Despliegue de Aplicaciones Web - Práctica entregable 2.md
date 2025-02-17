@@ -285,8 +285,16 @@ Una vez resuelto el conflicto, lo marcamos como tal, hacemos commit y lo subimos
 
 ![319.png](319.png)
 
-# 4. Enlace a videoclip
+# 4. Enlace a Notion
+
+[https://www.notion.so/Despliegue-de-Aplicaciones-Web-Pr-ctica-entregable-2-Roberto-Rodr-guez-Gonz-lez-19387346789480598e9bf99277680858?pvs=4](https://www.notion.so/Despliegue-de-Aplicaciones-Web-Pr-ctica-entregable-2-Roberto-Rodr-guez-Gonz-lez-19387346789480598e9bf99277680858?pvs=21)
 
 # 5. Enlace a repositorio en GitHub
 
 https://github.com/roberrod0/labdist
+
+# 6. Enlace a Loom
+
+[https://www.loom.com/share/dd6a799941f34a55805c8a9a02e21552?sid=e95e9704-c7cb-4bc8-9d61-ac070fb9a08c](https://www.loom.com/share/dd6a799941f34a55805c8a9a02e21552?sid=6ded8897-f527-43e9-86eb-573231f94898)
+
+[https://www.loom.com/share/dd6a799941f34a55805c8a9a02e21552?sid=6ded8897-f527-43e9-86eb-573231f94898](https://www.loom.com/share/dd6a799941f34a55805c8a9a02e21552?sid=6ded8897-f527-43e9-86eb-573231f94898)
